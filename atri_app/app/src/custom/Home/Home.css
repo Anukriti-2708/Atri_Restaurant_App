@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap');
+
+.p-Home{
+    font-family: 'Lato';
+    
+}
+
+.p-Home.TextBox6{
+    font-weight: 700;
+}
+
+.p-Home.TextBox7{
+    font-weight: 700;
+}
+
+.p-Home.TextBox9{
+    font-weight: 700;
+}
+
+.p-Home.Flex8{
+    font-weight: 400;
+}
+
+.p-Home.Flex2{
+    font-weight: 400;
+}

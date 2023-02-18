@@ -1,0 +1,20 @@
+{
+  "logo restaurant.svg": {
+    "mime": "image/svg+xml"
+  },
+  "Atri.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "doordash.svg": {
+    "mime": "image/svg+xml"
+  },
+  "postmates.svg": {
+    "mime": "image/svg+xml"
+  },
+  "rappi.svg": {
+    "mime": "image/svg+xml"
+  },
+  "grubhub.svg": {
+    "mime": "image/svg+xml"
+  }
+}
